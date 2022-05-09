@@ -51,7 +51,7 @@ html , body{
 }
 .start {
     min-height: 962px;
-    background: url("./img/background.jpg") no-repeat center;
+    background: url("../img/background.jpg") no-repeat center;
     background-size: cover;
 }
 .start__content {
@@ -239,10 +239,10 @@ html , body{
     margin-bottom: 58px;
 }
 .tottori__link {
-    color: #006DFE;
+    color: #fff;
     font-size: 16px;
     line-height: 24px;
-    background: url(/img/Shape.svg) no-repeat right center;
+    background: url(../img/Shape.svg) no-repeat right center;
     padding-right: 59px;
 }
 
@@ -336,7 +336,6 @@ html , body{
 .card__link {
     font-size: 16px;
     line-height: 19.2px;
-    background-color: #006DFE;
     color: #fff;
     padding: 12px 19px;
     
